@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Reneymogeni 👋  
+**Cloud Security Engineer |  specialized in Cloud Computing & Information Security**
 
-<!--
-**reney001/reney001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+Cloud Security Engineer with a background in **Cloud Computing and Information Security**, specializing in compliance, governance, and secure, scalable cloud solutions.
 
-Here are some ideas to get you started:
+## What am I working on?
+- Designing secure cloud architectures  
+- Implementing compliance frameworks for regulated industries  
+- Exploring automation and DevOps practices for efficiency  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- AWS, Azure, GCP  
+- Linux & Docker  
+- Kubernetes & Terraform  
+- GitHub & CI/CD pipelines  
+
+## How to reach me
+- 📧 Email: reneymogeni@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/reney/reney](https://www.linkedin.com/in/reney-reney)  
+- 🐙 GitHub: [github.com/reney001/reney001](https://github.com/reney001)
+
