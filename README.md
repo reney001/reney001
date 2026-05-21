@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Cloud Security** professional in the making, with a background in **Cloud Computing** and **Information Security**. I've chosen to specialise in **Cloud Security** — the intersection of infrastructure and defence — because I believe the future of security lives in the cloud.
+I'm a passionate **Cloud Security** professional in the making, with a background in **Cloud Computing** and **Information Security**. I've chosen to specialise in **Cloud Security** the intersection of infrastructure and defence  because I believe the future of security lives in the cloud.
 
 I spend my time building hands-on labs, sharpening my scripting skills, and learning how to protect cloud environments from real-world threats. I'm actively working toward my first role in the security industry.
 
